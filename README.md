@@ -1,4 +1,4 @@
-# <img src="./gamerpic.png" width="21px" height="21px"> Pres7o
+# <img src="./gamerpic.png" width="20px" height="20px"> Pres7o
 
 Hello! Welcome to my Github profile!
 

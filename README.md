@@ -1,6 +1,6 @@
 # <img src="./gamerpic.png" width="20px" height="20px"> Presto
 
-<img src="https://github-readme-stats.vercel.app/api/?username=Pres7o&hide=contribs,prs,issues&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true" alt="Graph ERR" height="150"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pres7o&show_icons=true&theme=onedark&layout=compact&langs_count=6&hide_border=true&card_width=400" alt="Graph ERR" height="150">
+<img src="https://github-readme-stats.vercel.app/api/?username=Pres7o&hide=contribs,prs,issues&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true&card_width=500" alt="Graph ERR" height="150"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pres7o&show_icons=true&theme=onedark&layout=compact&langs_count=6&hide_border=true&card_width=400" alt="Graph ERR" height="150">
 
 Hello! Welcome to my Github profile! Please, check out [my projects](https://github.com/Pres7o?tab=repositories)!
 

@@ -12,7 +12,7 @@
     <img src="brainfuck.svg" width="32px" height="32px">
 </div>
 
-<div align="center" style="color:#00e300;">Hello! Welcome to my Github profile! Please, check out <a  href="https://github.com/Pres7o?tab=repositories" style="color:#00ff00;text-decoration:underline;">my projects</a>!</div>
+<div align="center">Hello! Welcome to my Github profile! Please, check out <a  href="https://github.com/Pres7o?tab=repositories" style="color:#00ff00;text-decoration:underline;">my projects</a>!</div>
 
 <br>
 
@@ -23,6 +23,6 @@
 
 <br>
 
-<div align="center"><h3 style="color:#00cc00;">Some of my projects</h3></div>
+<div align="center"><h3>Some of my projects</h3></div>
 
 <div align="center"><a href="https://github.com/Pres7o/wine-installer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pres7o&repo=wine-installer&show_icons=true&theme=onedark&hide_border=true" alt="Graph ERR" height="150"></a><a href="https://github.com/Pres7o/88x31"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pres7o&repo=88x31&show_icons=true&theme=onedark&hide_border=true" alt="Graph ERR" height="150"></a></div>

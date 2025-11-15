@@ -9,7 +9,7 @@
     <img src="toml.svg" width="32px" height="32px">
     <img src="xml.svg" width="32px" height="32px">
     <img src="json.svg" width="32px" height="32px">
-    <img src="brainfuck.svg" width="32px" height="32px">
+    <a href="https://brainfuck.org/"><img src="brainfuck.svg" width="32px" height="32px"></a>
 </div>
 
 <div align="center">Hello! Welcome to my Github profile! Please, check out <a  href="https://github.com/Pres7o?tab=repositories" style="color:#00ff00;text-decoration:underline;">my projects</a>!</div>

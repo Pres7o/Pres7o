@@ -1,15 +1,16 @@
-<div align="center"><img src="logo.webp" width="auto" height="100px"></div>
+<div align="center"><a href="#"><img src="logo.webp" width="auto" height="100px"></a></div>
 
 <div align="center">
-    <img src="html.svg" width="32px" height="32px">
-    <img src="css.svg" width="32px" height="32px">
-    <img src="python.svg" width="32px" height="32px">
-    <img src="console.svg" width="32px" height="32px">
-    <img src="yaml.svg" width="32px" height="32px">
-    <img src="toml.svg" width="32px" height="32px">
-    <img src="xml.svg" width="32px" height="32px">
-    <img src="json.svg" width="32px" height="32px">
+    <a href="https://html.spec.whatwg.org/"><img src="html.svg" width="32px" height="32px"></a>
+    <a href="https://www.w3.org/TR/css/"><img src="css.svg" width="32px" height="32px"></a>
+    <a href="https://www.python.org/"><img src="python.svg" width="32px" height="32px"></a>
+    <a href="https://www.gnu.org/software/bash/"><img src="console.svg" width="32px" height="32px"></a>
+    <a href="https://yaml.org/"><img src="yaml.svg" width="32px" height="32px"></a>
+    <a href="https://toml.io/"><img src="toml.svg" width="32px" height="32px"></a>
+    <a href="https://www.w3.org/XML/"><img src="xml.svg" width="32px" height="32px"></a>
+    <a href="https://www.json.org/"><img src="json.svg" width="32px" height="32px"></a>
     <a href="https://brainfuck.org/"><img src="brainfuck.svg" width="32px" height="32px"></a>
+    <a href="https://gnu.org/"><img src="gnu.svg" width="32px" height="32px"></a>
 </div>
 
 <div align="center">Hello! Welcome to my Github profile! Please, check out <a  href="https://github.com/Pres7o?tab=repositories" style="color:#00ff00;text-decoration:underline;">my projects</a>!</div>

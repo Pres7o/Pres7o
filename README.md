@@ -26,4 +26,5 @@
 
 <div align="center"><h3>Some of my projects</h3></div>
 
-<div align="center"><a href="https://github.com/Pres7o/wine-installer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pres7o&repo=wine-installer&show_icons=true&theme=onedark&hide_border=true" alt="Graph ERR" height="150"></a><a href="https://github.com/Pres7o/88x31"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pres7o&repo=88x31&show_icons=true&theme=onedark&hide_border=true" alt="Graph ERR" height="150"></a></div>
+<div align="center"><a href="https://github.com/Pres7o/wine-installer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pres7o&repo=wine-installer&show_icons=true&theme=onedark&hide_border=true" alt="Graph ERR" height="150"></a><a href="https://github.com/Pres7o/prestokit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pres7o&repo=prestokit&show_icons=true&theme=onedark&hide_border=true" alt="Graph ERR" height="150"></a></div>
+<div align="center"><a href="https://github.com/Pres7o/88x31"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pres7o&repo=88x31&show_icons=true&theme=onedark&hide_border=true" alt="Graph ERR" height="150"></a></div>

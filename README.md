@@ -16,6 +16,7 @@
 <br>
 
 <img src="https://gitmystat.vercel.app/user?theme=onedark&username=Pres7o" alt="Graph ERR">
+<img src="https://gitmystat.vercel.app/top?theme=onedark&username=Pres7o&layout=bar" alt="Graph ERR">
 
 <div align="center">
   <a href="https://github.com/Pres7o/brython-plus"><img src="https://gitmystat.vercel.app/repo?theme=onedark&username=Pres7o&repo=brython-plus" alt="Graph ERR"></a>

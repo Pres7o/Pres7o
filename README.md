@@ -17,13 +17,10 @@
 
 <div align="center">
   <img src="https://gitmystat.vercel.app/user?theme=onedark&username=Pres7o" alt="Graph ERR">
-  <img src="https://gitmystat.vercel.app/top?theme=onedark&username=Pres7o&layout=bar" alt="Graph ERR">
 
-  <img src="https://gitmystat.vercel.app/wakatime?theme=onedark&username=Presto&layout=bar" alt="Graph ERR">
   <img src="https://gitmystat.vercel.app/wakatime?theme=onedark&username=Presto&layout=default" alt="Graph ERR">
+  <img src="https://gitmystat.vercel.app/wakatime?theme=onedark&username=Presto&layout=bar" alt="Graph ERR">
 </div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pres7o&bg_color=282c34&color=abb2bf&line=e5c17c&point=e06c75&area=true&hide_border=true&radius=16&border_color=3B4048&custom_title=My%20Contribution%20History" alt="Graph ERR">
 
 <div align="center">
   <a href="https://github.com/Pres7o/brython-plus"><img src="https://gitmystat.vercel.app/repo?theme=onedark&username=Pres7o&repo=brython-plus" alt="Graph ERR"></a>

@@ -25,7 +25,7 @@
   <img align="center" src="https://github-readme-stats-cyyin.vercel.app/api/top-langs?username=Pres7o&show_icons=true&theme=onedark&layout=compact&langs_count=6&hide_border=true&border_radius=24&card_width=500" alt="Graph ERR">
 </div>
 <div align="center">
-  <img align="center" src="https://github-readme-stats-cyyin.vercel.app/api/wakatime?username=Presto&show_icons=true&theme=onedark&layout=pie&langs_count=6&hide_border=true&border_radius=24&card_width=500&layout=compact&hide_progress=true&custom_title=WakaTime%20Stats" alt="Graph ERR">
+  <img align="center" src="https://github-readme-stats-cyyin.vercel.app/api/wakatime?username=Presto&show_icons=true&theme=onedark&langs_count=9&hide_border=true&border_radius=24&card_width=500&layout=compact&hide_progress=true&custom_title=WakaTime%20Stats" alt="Graph ERR">
 </div>
 <br>
 <div align="center"><h2>Some of my projects</h2></div>

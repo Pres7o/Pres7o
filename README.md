@@ -17,10 +17,8 @@
 
 <img src="https://gitmystat.vercel.app/user?theme=onedark&username=Pres7o" alt="Graph ERR">
 
-<a href="https://github.com/Pres7o/brython-plus"><img src="https://gitmystat.vercel.app/repo?theme=onedark&username=Pres7o&repo=brython-plus" alt="Graph ERR"></a>
-<a href="https://github.com/Pres7o/prestokit"><img src="https://gitmystat.vercel.app/repo?theme=onedark&username=Pres7o&repo=prestokit" alt="Graph ERR"></a>
-
-<a href="https://github.com/Pres7o/wine-installer"><img src="https://gitmystat.vercel.app/repo?theme=onedark&username=Pres7o&repo=wine-installer" alt="Graph ERR"></a>
-<a href="https://github.com/Pres7o/88x31"><img src="https://gitmystat.vercel.app/repo?theme=onedark&username=Pres7o&repo=88x31" alt="Graph ERR"></a>
+<a align="center" href="https://github.com/Pres7o/brython-plus"><img src="https://gitmystat.vercel.app/repo?theme=onedark&username=Pres7o&repo=brython-plus" alt="Graph ERR"></a>
+<a align="center" href="https://github.com/Pres7o/prestokit"><img src="https://gitmystat.vercel.app/repo?theme=onedark&username=Pres7o&repo=prestokit" alt="Graph ERR"></a>
+<a align="center" href="https://github.com/Pres7o/wine-installer"><img src="https://gitmystat.vercel.app/repo?theme=onedark&username=Pres7o&repo=wine-installer" alt="Graph ERR"></a>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pres7o&bg_color=282c34&color=abb2bf&line=e5c17c&point=e06c75&area=true&hide_border=true&radius=16&border_color=3B4048&custom_title=My%20Contribution%20History" alt="Graph ERR">

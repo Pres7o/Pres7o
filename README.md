@@ -18,13 +18,13 @@
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/?username=Pres7o&hide=contribs,prs,issues&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true&card_width=400" alt="Graph ERR" height="150">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pres7o&show_icons=true&theme=onedark&layout=compact&langs_count=6&hide_border=true&card_width=350" alt="Graph ERR" height="150">
+    <img src="https://readme-stats-pres7o.vercel.app/api/?username=Pres7o&hide=contribs,prs,issues&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true&card_width=400" alt="Graph ERR" height="150">
+    <img src="https://readme-stats-pres7o.vercel.app/api/top-langs?username=Pres7o&show_icons=true&theme=onedark&layout=compact&langs_count=6&hide_border=true&card_width=350" alt="Graph ERR" height="150">
 </div>
 
 <br>
 
 <div align="center"><h3>Some of my projects</h3></div>
 
-<div align="center"><a href="https://github.com/Pres7o/wine-installer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pres7o&repo=wine-installer&show_icons=true&theme=onedark&hide_border=true" alt="Graph ERR" height="150"></a><a href="https://github.com/Pres7o/prestokit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pres7o&repo=prestokit&show_icons=true&theme=onedark&hide_border=true" alt="Graph ERR" height="150"></a></div>
-<div align="center"><a href="https://github.com/Pres7o/88x31"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pres7o&repo=88x31&show_icons=true&theme=onedark&hide_border=true" alt="Graph ERR" height="150"></a></div>
+<div align="center"><a href="https://github.com/Pres7o/wine-installer"><img src="https://readme-stats-pres7o.vercel.app/api/pin/?username=Pres7o&repo=wine-installer&show_icons=true&theme=onedark&hide_border=true" alt="Graph ERR" height="150"></a><a href="https://github.com/Pres7o/prestokit"><img src="https://readme-stats-pres7o.vercel.app/api/pin/?username=Pres7o&repo=prestokit&show_icons=true&theme=onedark&hide_border=true" alt="Graph ERR" height="150"></a></div>
+<div align="center"><a href="https://github.com/Pres7o/88x31"><img src="https://readme-stats-pres7o.vercel.app/api/pin/?username=Pres7o&repo=88x31&show_icons=true&theme=onedark&hide_border=true" alt="Graph ERR" height="150"></a></div>

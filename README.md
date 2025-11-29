@@ -17,10 +17,7 @@
 
 <div align="center">
   <img src="https://gitmystat.vercel.app/user?theme=onedark&username=Pres7o" alt="Graph ERR">
-</div>
 
-<div align="center">
-  <img src="https://gitmystat.vercel.app/wakatime?theme=onedark&username=Presto&layout=default" alt="Graph ERR">
   <img src="https://gitmystat.vercel.app/wakatime?theme=onedark&username=Presto&layout=bar" alt="Graph ERR">
 </div>
 

@@ -11,13 +11,10 @@
     <a href="https://www.json.org/"><img src="json.svg" width="32px" height="32px"></a>
     <a href="https://brainfuck.org/"><img src="brainfuck.svg" width="32px" height="32px"></a>
     <a href="https://gnu.org/"><img src="gnu.svg" width="32px" height="32px"></a>
-    <a href="https://wakatime.com/@eb8ca4ba-40d4-4e25-bb4a-606379e7bed9"><img src="https://wakatime.com/badge/user/eb8ca4ba-40d4-4e25-bb4a-606379e7bed9.svg?style=for-the-badge" alt="WAKATIME ERR" /></a>
 </div>
 
-<div align="center">Hello! Welcome to my Github profile! Please, check out <a  href="https://github.com/Pres7o?tab=repositories" style="color:#00ff00;text-decoration:underline;">my projects</a>!</div>
-
-<br>
-
+<div align="center"><a href="https://wakatime.com/@eb8ca4ba-40d4-4e25-bb4a-606379e7bed9"><img src="https://wakatime.com/badge/user/eb8ca4ba-40d4-4e25-bb4a-606379e7bed9.svg?style=for-the-badge" alt="WAKATIME ERR" /></a>
+</div>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats-cyyin.vercel.app/api?username=Pres7o&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true&card_width=500&border_radius=24" alt="Graph ERR">

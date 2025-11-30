@@ -17,13 +17,13 @@
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats-cyyin.vercel.app/api?username=Pres7o&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true&card_width=500&border_radius=24" alt="Graph ERR">
+  <a href="#"><img align="center" src="https://github-readme-stats-cyyin.vercel.app/api?username=Pres7o&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true&card_width=500&border_radius=24" alt="Graph ERR"></a>
 </div>
 <div align="center">
-  <img align="center" src="https://github-readme-stats-cyyin.vercel.app/api/top-langs?username=Pres7o&show_icons=true&theme=onedark&layout=compact&langs_count=6&hide_border=true&border_radius=24&card_width=500" alt="Graph ERR">
+  <a href="#"><img align="center" src="https://github-readme-stats-cyyin.vercel.app/api/top-langs?username=Pres7o&show_icons=true&theme=onedark&layout=compact&langs_count=6&hide_border=true&border_radius=24&card_width=500" alt="Graph ERR"></a>
 </div>
 <div align="center">
-  <img align="center" src="https://github-readme-stats-cyyin.vercel.app/api/wakatime?username=Presto&show_icons=true&theme=onedark&langs_count=9&hide_border=true&border_radius=24&card_width=500&layout=compact&hide_progress=true&custom_title=WakaTime%20Stats" alt="Graph ERR">
+  <a href="https://wakatime.com/@eb8ca4ba-40d4-4e25-bb4a-606379e7bed9"><img align="center" src="https://github-readme-stats-cyyin.vercel.app/api/wakatime?username=Presto&show_icons=true&theme=onedark&langs_count=9&hide_border=true&border_radius=24&card_width=500&layout=compact&hide_progress=true&custom_title=WakaTime%20Stats" alt="Graph ERR"></a>
 </div>
 <br>
 <div align="center"><h2>Some of my projects</h2></div>
